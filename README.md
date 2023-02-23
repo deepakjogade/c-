@@ -1,4 +1,4 @@
 # c++ repository
 
 content
-100 coding challenge
+100 days of coding challenge
